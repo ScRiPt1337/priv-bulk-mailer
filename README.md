@@ -9,3 +9,4 @@ Email verifier:- Email validator is a tool to check the validation of email exis
  Bulk email sending:- Bulk mail sender tool is work on sending a lot of mail at once. Drop an email list to send the letter to the user.
 You can send mail to an unlimited user at once. There is no limitation for this to send the mails.
 
+![alt text](https://raw.githubusercontent.com/ScRiPt1337/priv-bulk-mailer/master/1x.PNG)
